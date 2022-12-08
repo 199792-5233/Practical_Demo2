@@ -160,12 +160,12 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     breakpoints: {
       320: {
-        slidesPerView: 2,
-        spaceBetween: 40
+        slidesPerView: 1,
+        spaceBetween: 30
       },
       480: {
-        slidesPerView: 3,
-        spaceBetween: 60
+        slidesPerView: 1,
+        spaceBetween: 30
       },
       640: {
         slidesPerView: 1,
